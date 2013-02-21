@@ -1,6 +1,6 @@
 call vice#Extend({
     \ 'addons': [
-        \ 'github:Raimondi:delimitMate',
+        \ 'github:Raimondi/delimitMate',
     \ ]
 \ })
 
